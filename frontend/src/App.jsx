@@ -63,10 +63,10 @@ export default function App() {
 
   return (
     <Container className="py-4">
-      <div className="mb-6">
+      <Row className="mb-6">
         <h1>my app</h1>
         <p>CI/CD 성공!!</p>
-      </div>
+      </Row>
       <Row className="mb-3">
         <Col>
           <h3>사용자 관리</h3>
